@@ -1,7 +1,7 @@
 {
-    "name": "magento/sample-data-media",
+    "name": "marcoaacoliveira/sample-data-media-pt-br",
     "description": "Sample Data media files",
-    "version": "100.3.0-dev",
+    "version": "100.3.0-dev-pt-br",
     "type": "magento2-component",
     "extra": {
         "map": [
