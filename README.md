@@ -1,3 +1,20 @@
+## Notas de tradução:
+
+Documentação com notas de tradução para manter o projeto organizado e consistente.
+Será apresentado em forma de lista o termo original e entre parênteses () a tradução.
+Ex:
+* Products (Produtos)
+* Categories (Categorias)
+
+Obs: É importante a utilização desse dicionário de tradução por todos os contribuidores desse projeto. É útil apenas catalogação de palavras com sentido duplo ou não intuitivo.
+
+### Categorias
+* Gear (Acessório)
+* Fitness (Malhação)
+
+
+## Default README
+
 Magento sample data includes a sample store, complete with more than 250 products (about 200 of them are configurable products), categories, promotional price rules, CMS pages, banners, and so on. Sample data uses the Luma theme on the storefront.
 
 Installing sample data is optional.

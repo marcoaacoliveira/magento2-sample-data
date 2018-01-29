@@ -1,7 +1,7 @@
 name,url_key,path,active,is_anchor,include_in_menu,position,display_mode,custom_layout_update
-Gear,gear,,1,0,1,4,PAGE,"<referenceContainer name=""catalog.leftnav"" remove=""true""/>"
-Bags,bags,Gear,1,1,1,,,
-"Fitness Equipment",fitness-equipment,Gear,1,1,1,,,
-Watches,watches,Gear,1,1,1,,,
-Collections,collections,,0,0,0,,PAGE,
-"New Luma Yoga Collection",yoga-new,Collections,1,1,0,,,
+Acessório,acessorio,,1,0,1,4,PAGE,"<referenceContainer name=""catalog.leftnav"" remove=""true""/>"
+Mochilas,mochilas,Acessório,1,1,1,,,
+"Equipamento de Malhação",equipamento-malhacao,Acessório,1,1,1,,,
+Relógios,relogios,Acessório,1,1,1,,,
+Coleções,colecoes,,0,0,0,,PAGE,
+"Nova Coleção Yoga Luma",yoga-nova,Coleções,1,1,0,,,
